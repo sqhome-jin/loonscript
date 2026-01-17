@@ -4,7 +4,7 @@
 #!homepage=
 #!author=SQHOME
 [Script]
-http-response ^https?:\/\/bzpp3\.iwzbz\.com\/api\/v1\.1\/user\/getuserlevel requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WzbzDiamondVipCrack.js
+http-response ^https?:\/\/bzpp3\.iwzbz\.com\/api\/v1\.1\/user\/getuserlevel requires-body=1,script-path=https://raw.githubusercontent.com/sqhome-jin/loonscript/refs/heads/main/extensions/wzpp/wzppvip.js
 
 
 [MITM]
