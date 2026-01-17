@@ -1,0 +1,11 @@
+#!name=问真排盘
+#!desc=问真排盘解锁
+#!icon=
+#!homepage=
+#!author=SQHOME
+[Script]
+http-response ^https?:\/\/bzpp3\.iwzbz\.com\/api\/v1\.1\/user\/getuserlevel requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WzbzDiamondVipCrack.js
+
+
+[MITM]
+hostname = bzpp3.iwzbz.com
