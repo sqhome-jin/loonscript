@@ -19,6 +19,7 @@ var response = JSON.parse($response.body);
 
 response.isSuccess = true;
 response.validateKey = "sqhome";
+response.code = 0;
 response.data = {
     "expires" : "2099-09-09 09:09:09",
     "vipLevel" : 3
